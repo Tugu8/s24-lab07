@@ -11,21 +11,24 @@ public class Frogger {
     private final Road road;
     private int position;
     
-    // Field for task 2. Anything to add/change?
     private final Records records;
-    private String firstName, lastName, phoneNumber, zipCode, state, gender;
+    private final FroggerID froggerID; // Task 2: replace six separate profile fields with one ID object.
 
-    public Frogger(Road road, int position, Records records, String firstName, String lastName, String phoneNumber,
-    String zipCode, String state, String gender) {
+    public Frogger(Road road, int position, Records records, FroggerID froggerID) {
         this.road = road;
         this.position = position;
         this.records = records;
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.phoneNumber = phoneNumber;
-        this.zipCode = zipCode;
-        this.state = state;
-        this.gender = gender;
+        this.froggerID = froggerID;
+    }
+
+    public Frogger(Road road, int position, Records records, String firstName, String lastName, String phoneNumber,
+    String zipCode, String state, String gender) {
+        this(
+                road,
+                position,
+                records,
+                new FroggerID(firstName, lastName, phoneNumber, zipCode, state, gender) // Task 2: keep old constructor, but convert inputs into FroggerID.
+        );
     }
 
     /**
@@ -36,23 +39,19 @@ public class Frogger {
      */
     public boolean move(boolean forward) {
         int nextPosition = this.position + (forward ? 1 : -1);
-        if (!isValid(nextPosition) || isOccupied(nextPosition)) {
+        if (!this.road.canMoveTo(nextPosition)) { // Task 1: Road now decides whether a target position is valid and free.
             return false;
         }
         this.position = nextPosition;
         return true;
     }
 
-    // TODO: Do you notice any issues here?
     public boolean isOccupied(int position) {
-        boolean[] occupied = this.road.getOccupied();
-        return occupied[position];
+        return this.road.isOccupied(position); // Task 1: occupancy logic moved out of Frogger.
     }
     
     public boolean isValid(int position) {
-        if (position < 0) return false;
-        boolean[] occupied = this.road.getOccupied();
-        return position < occupied.length;
+        return this.road.isValidPosition(position); // Task 1: bounds checking is now Road's responsibility.
     }
 
     /**
@@ -61,8 +60,7 @@ public class Frogger {
      * @return true if record successful, else false.
      */
     public boolean recordMyself() {
-      boolean success = records.addRecord(firstName, lastName, phoneNumber, zipCode, state, gender);
-      return success;
+        return this.records.addRecord(this.froggerID); // Task 2: Records receives one object instead of six String values.
     }
 
 }

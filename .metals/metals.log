@@ -1,0 +1,743 @@
+2026.03.18 13:02:38 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07' for client Visual Studio Code 1.111.0.
+2026.03.18 13:02:38 INFO  Memory monitor started
+2026.03.18 13:02:40 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.18 13:02:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:02:41 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:02:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:02:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 13:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 13:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 13:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 13:02:49 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 13:02:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 13:02:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:02:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:02:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:02:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:03:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:03:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:03:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:03:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:03:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:03:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:03:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:03:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:03:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 1:03:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+2026.03.18 13:03:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:03:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 1:03:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+Mar 18, 2026 1:12:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.18 13:12:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:20:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:23:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 1:23:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+2026.03.18 13:23:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:23:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:30:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:34:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:21 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:34:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:23 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:34:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:24 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:34:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:39 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:34:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:34:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:05 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:35:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:08 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:35:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\shapes\Line.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\Drawing.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\shapes\Shape.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\shapes\Rectangle.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\shapes\Triangle.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\writing\JPEGWriter.java. Using fallback presentation compiler.
+2026.03.18 13:35:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\writing\PNGWriter.java. Using fallback presentation compiler.
+2026.03.18 13:35:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:14 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:35:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:54 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:35:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:35:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:57 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:35:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:35:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:36:03 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:36:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:36:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:36:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:36:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:16 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:36:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:21 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:36:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:27 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:36:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 1:36:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 224
+2026.03.18 13:36:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:57 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:36:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:36:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:01 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:37:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 INFO  empty definition using pc, found symbol in pc: _empty_/Road#getOccupied# (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_13-37-09-347.md")
+2026.03.18 13:37:09 INFO  Created report: Optional[file:///C:/Users/User/OneDrive/Desktop/Buteelt/s24-lab07/Java/src/main/java/frogger/Frogger.java]
+2026.03.18 13:37:09 INFO  empty definition using pc, found symbol in pc: _empty_/Road#getOccupied# (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_13-37-09-347.md")
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+Mar 18, 2026 1:37:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+2026.03.18 13:37:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:37:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:23 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:37:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:37:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:08 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:38:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:36 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:38:37 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:38:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:38:45 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:38:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:38:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:38:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:38:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:38:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:38:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:40:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:40:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:40:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:40:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:40:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:41:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:41:42 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:41:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+Mar 18, 2026 1:41:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 337
+2026.03.18 13:41:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:41:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:41:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:41:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:41:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:41:46 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:41:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:41:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 1:41:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 347
+2026.03.18 13:41:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:41:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:41:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:41:47 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:42:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:42:43 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:42:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:42:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:42:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:42:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:42:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:42:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:43:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:43:29 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:43:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:43:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:43:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:43:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:44:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:44:12 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:44:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:44:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:44:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:44:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:44:45 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:44:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:44:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:44:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:44:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:47:26 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:47:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:47:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:47:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:47:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:29 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:47:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:30 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:47:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:48:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:48:58 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:48:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:48:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:48:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+Mar 18, 2026 1:48:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 444
+2026.03.18 13:48:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:49:00 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:48:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:49:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:48:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:48:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:49:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:03 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:49:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:06 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:49:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:54:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:54:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:54:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:27 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 13:54:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 13:54:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:54:28 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:54:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:54:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:54:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:54:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:44 INFO  Created report: Optional[file:///C:/Users/User/OneDrive/Desktop/Buteelt/s24-lab07/Java/src/main/java/frogger/Frogger.java]
+2026.03.18 13:54:44 INFO  empty definition using pc, found symbol in pc: _empty_/Array#length. (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_13-54-44-363.md")
+2026.03.18 13:54:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:54:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 13:57:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:57:38 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 13:57:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:57:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:57:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:57:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 13:57:41 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:37 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:37 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+Mar 18, 2026 2:02:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 542
+2026.03.18 14:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:48 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:48 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:02:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:03:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:03:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:03:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:03:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+Mar 18, 2026 2:04:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 639
+2026.03.18 14:04:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:24 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:04:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:04:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:06:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:08:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:08:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:08:56 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:09:10 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:09:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:09:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:13 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:09:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:09:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:58 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:09:58 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:09:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:09:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:10:02 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:10:10 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:10:10 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:10:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:10:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:10:11 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:10:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:10:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:10:12 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:10:13 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:10:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:10:25 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:10:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:10:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:11:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:08 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:11:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:43 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:11:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:11:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:11:57 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:11:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:11:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:11:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:11:59 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java
+2026.03.18 14:11:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:11:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:11:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:12:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:12:05 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:12:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:12:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:12:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:12:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:12:36 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:12:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:12:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:13:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:00 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:13:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:13:24 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:13:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:13:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:13:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:13:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:29 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:13:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:42 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:13:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:49 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:13:49 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:13:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:16 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:14:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:14:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:15:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:15:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:15:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:16:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:17:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:17:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:17:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:17:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 2:17:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1016
+2026.03.18 14:18:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:18:58 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:18:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:19:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:19:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 2:19:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1120
+2026.03.18 14:19:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+Mar 18, 2026 2:19:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1121
+2026.03.18 14:19:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:19:45 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:19:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:19:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:19:48 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:19:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:20:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:03 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:20:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:06 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:20:15 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:20:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:20:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:21 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:20:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:20:24 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:20:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:20:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:27 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:20:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:50 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:20:50 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:20:50 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:20:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:53 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:20:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:20:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:21:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:21:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:23:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:23:40 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:23:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:23:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:23:41 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:23:41 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:23:41 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:23:41 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:23:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:24:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:24:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:31 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:24:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:24:42 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:24:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:24:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:24:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:24:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:44 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:24:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:48 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:52 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:24:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:24:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:25:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:25:01 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:25:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:25:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:25:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:25:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:25:05 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:25:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:25:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:25:10 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:25:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:25:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:25:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:26:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:26:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:26:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:26:19 INFO  empty definition using pc, found symbol in pc: java/util/List#contains(). (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_14-26-19-122.md")
+2026.03.18 14:26:19 INFO  empty definition using pc, found symbol in pc: _empty_/Records#addRecord# (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_14-26-19-122.md")
+2026.03.18 14:26:19 INFO  Created report: Optional[file:///C:/Users/User/OneDrive/Desktop/Buteelt/s24-lab07/Java/src/main/java/frogger/Records.java]
+2026.03.18 14:26:19 INFO  empty definition using pc, found symbol in pc: java/util/List#contains(). (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_14-26-19-122.md")
+2026.03.18 14:26:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\Drawing.java. Using fallback presentation compiler.
+2026.03.18 14:26:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:26:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:23 INFO  Created report: Optional[file:///C:/Users/User/OneDrive/Desktop/Buteelt/s24-lab07/Java/src/main/java/drawing/Drawing.java]
+2026.03.18 14:26:23 INFO  empty definition using pc, found symbol in pc: java/lang/String#equals(). (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_14-26-23-752.md")
+2026.03.18 14:26:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:26:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:26:24 INFO  empty definition using pc, found symbol in pc: java/util/List#contains(). (full report at: "C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\.metals\.reports\metals-full\2026-03-18\r_empty-definition_14-26-19-122.md")
+2026.03.18 14:26:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:26:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\FroggerID.java. Using fallback presentation compiler.
+2026.03.18 14:26:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\Drawing.java. Using fallback presentation compiler.
+2026.03.18 14:28:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:28:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:28:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:28:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:28:23 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:28:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:29:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:29:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:29:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:29:55 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java
+2026.03.18 14:29:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Road.java. Using fallback presentation compiler.
+2026.03.18 14:30:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:30:33 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:30:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:31:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:31:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:31:26 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java
+2026.03.18 14:31:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:31:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:31:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:31:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:32:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Records.java. Using fallback presentation compiler.
+2026.03.18 14:32:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:32:12 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java
+2026.03.18 14:32:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:32:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\frogger\Frogger.java. Using fallback presentation compiler.
+2026.03.18 14:39:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\Drawing.java. Using fallback presentation compiler.
+2026.03.18 14:39:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\s24-lab07\Java\src\main\java\drawing\shapes\Shape.java. Using fallback presentation compiler.

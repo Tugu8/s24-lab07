@@ -1,3 +1,14 @@
+error id: file:///C:/Users/User/OneDrive/Desktop/Buteelt/s24-lab07/Java/src/main/java/frogger/Records.java:java/util/List#contains().
+file:///C:/Users/User/OneDrive/Desktop/Buteelt/s24-lab07/Java/src/main/java/frogger/Records.java
+empty definition using pc, found symbol in pc: java/util/List#contains().
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 382
+uri: file:///C:/Users/User/OneDrive/Desktop/Buteelt/s24-lab07/Java/src/main/java/frogger/Records.java
+text:
+```scala
 package frogger;
 
 import java.util.ArrayList;
@@ -16,7 +27,7 @@ public class Records {
     }
 
     public boolean addRecord(FroggerID froggerID) {
-        if (this.records.contains(froggerID)) {
+        if (this.records.@@contains(froggerID)) {
             return false;
         }
         this.records.add(froggerID);
@@ -39,3 +50,9 @@ public class Records {
         return addRecord(new FroggerID(firstName, lastName, phoneNumber, zipCode, state, gender));
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/util/List#contains().
